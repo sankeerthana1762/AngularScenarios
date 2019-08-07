@@ -32,6 +32,7 @@ Create the task in a scenario4 folder of your project. All files of the componen
 scenario4
 
 Scenario5
+
 In this scenario, create three components, say component1, component2, and component3.
 Component1 is a parent of component2, and component2 is a parent of component3.
 A user should be able to enter text in the .html template file of component3. The template of
@@ -40,6 +41,7 @@ Create the task in a scenario5 folder of your project. All files of the componen
 scenario5 folder.
 
 Scenario6
+
 In this scenario, create three components, say component1, component2, and component3.
 Component1 is a parent of both component2 and component3.
 A user should be able to enter text in the .html template file of component2. The template of
